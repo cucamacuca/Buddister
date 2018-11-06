@@ -1,0 +1,4 @@
+module CNIOLinux {
+    umbrella "/Users/ruipereira/workspace/Buddister/.build/checkouts/swift-nio.git--5792369121472070664/Sources/CNIOLinux/include"
+    export *
+}

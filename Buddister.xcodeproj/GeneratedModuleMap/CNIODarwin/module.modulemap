@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella "/Users/ruipereira/workspace/Buddister/.build/checkouts/swift-nio.git--5792369121472070664/Sources/CNIODarwin/include"
+    export *
+}
